@@ -1,3 +1,5 @@
+https://classroom.github.com/a/ZpdKtloc
+
 # Üçüncü Seminarın Tapşırıqları
 
 **1. Matrisi transformasiya edən program yazın**
