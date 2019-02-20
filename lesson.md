@@ -2,6 +2,11 @@
 ```python
 https://pyformat.info/
 ```
+**Python List**
+```
+https://python-textbok.readthedocs.io/en/1.0/Collections.html
+```
+
 
 ```python
 a = ["bir", "iki", "üç", "dörd", "beş", "altı", "yeddi", "səkkiz", "doqquz"]
