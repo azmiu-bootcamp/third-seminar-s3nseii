@@ -81,4 +81,24 @@ for i in basket:
 
 print("Ümumi məbləğ: %0.2f" % total)
 
+
+
+matris = []
+n = 5
+s = 0
+while n > 0:
+	# eded daxil edin
+	num = int(input("daxil edin: "))
+	#kvadratini tap
+	num = num * num
+	# her defe tapilan kvadrati cemle
+	s = s + num
+	# kavdarti matrise elave et
+	matris.append(num)
+	#saygaci azalt
+	n = n - 1
+
+
+print(matris)
+
 ```
